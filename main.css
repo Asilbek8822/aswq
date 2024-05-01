@@ -1,0 +1,55 @@
+/* main.css */
+
+/* Header stil */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px ;
+    width: 1500px;
+   position: fixed;
+   margin-top: -10px;
+}
+
+/* Nav stil */
+nav {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+.card{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: flex;
+}
+
+/* Main stil */
+main {
+    padding: 20px;
+}
+
+/* Footer stil */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
